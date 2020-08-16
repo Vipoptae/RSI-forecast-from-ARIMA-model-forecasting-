@@ -6,6 +6,8 @@ This research focuses on determing the momentum of stock prices via Relative Str
 
 
 How to run the code
+
+
     To run R code press ctrl+alt+R and type the stock. You can change the date time of data forecasting in startdate and enddate. 
 
 
